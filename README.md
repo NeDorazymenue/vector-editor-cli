@@ -6,5 +6,8 @@
    ```sh
    git clone https://github.com/NeDorazymenue/vector-editor-cli.git
    cd vector-editor-cli
-
-
+   ```
+Запустите код:
+   ```sh
+   python shapes.py
+   ```
